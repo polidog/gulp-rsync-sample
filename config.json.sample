@@ -1,0 +1,7 @@
+{
+  "target" : {
+    "serverPath": "~/test",
+    "localPath": "/Users/polidog/test",
+    "hostname": "hogehoge.jp"
+  }
+}
